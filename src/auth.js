@@ -38,5 +38,7 @@ class AuthManager {
     }
 }
 
+
+
 // Instancia global del gestor de autenticación
 const authManager = new AuthManager();
